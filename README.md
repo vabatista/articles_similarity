@@ -15,3 +15,5 @@ The notebooks folder contains scripts to load, parse and index articles, produci
 
 3 - Run the Streamlit app
 > streamlit run streamlit_frontend.py
+
+![Streamlit demo](./streamlit_app.gif "Streamlit demo for search articles by abstract").
