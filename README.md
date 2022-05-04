@@ -7,6 +7,7 @@ The notebooks folder contains scripts to load, parse and index articles, produci
 # Config
 1 - Create a conda env using pre-reqs.
 > conda env create -f environment.yml
+> 
 > conda activate articles_similarity
 
 2 - If you want to run the pdf parse notebook, you must run the server:
