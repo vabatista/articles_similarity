@@ -1,5 +1,6 @@
-name: articles_similarity
+name: zencastr
 channels:
+  - pytorch
   - conda-forge
   - defaults
 dependencies:
@@ -36,7 +37,6 @@ dependencies:
   - executing=0.8.3=pyhd3eb1b0_0
   - expat=2.4.4=h295c915_0
   - faiss=1.7.2=py39he004725_0_cpu
-  - faiss-cpu=1.7.2=h718b53a_0
   - filelock=3.6.0=pyhd8ed1ab_0
   - fontconfig=2.13.1=h6c09931_0
   - freetype=2.11.0=h70c0345_0
@@ -194,6 +194,7 @@ dependencies:
     - cachetools==5.0.0
     - en-core-web-sm==3.2.0
     - en-core-web-trf==3.2.0
+    - faiss-cpu==1.7.2
     - gitdb==4.0.9
     - gitpython==3.1.27
     - lxml==4.8.0
