@@ -1,5 +1,5 @@
-# articles_similarity
-Demo for indexing pdf articles and search for similarity between them.
+# Scientific articles similarity demo
+Demo for indexing scientific articles in PDF and search for similarity between them.
 
 # Config
 1 - Create a conda env using pre-reqs.
