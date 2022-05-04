@@ -1,5 +1,6 @@
 # Scientific articles similarity demo
 Demo for indexing scientific articles in PDF and search for similarity between them.
+I decided to use a Vector representation of each document, using Word2Vec average of each token inside document. 
 
 # Config
 1 - Create a conda env using pre-reqs.
